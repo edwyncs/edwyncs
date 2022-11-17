@@ -1,4 +1,10 @@
-### Hi there 👋
+### Oh, hi stranger! 👋
+
+I'm Edwin, I'm front developer based in Mexico, I have a passion for all things technology and design, and welcome to my GitHub.
+
+#### 💻 Things I work with
+
+![HTML](https://img.shields.io/badge/HTML-f06529?style=flat&logo=html5&logoColor=white)
 
 <!--
 **edwyncs/edwyncs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
